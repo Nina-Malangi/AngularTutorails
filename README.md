@@ -25,3 +25,35 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+Angular Tutorials 
+
+1. What is angular ?
+    Its a javascript framework used to develope signle page application 
+
+2. Environment Setup 
+    Node JS --> web server 
+    NPM --> package manager 
+    CLI ---> tool for project setup 
+
+3. basic CMD 
+        shift+ command + p = to set the the path in Visual Studio
+        ng serve ===> to start the application 
+
+4.Files in the Project 
+    src folder --> component and module 
+
+Topics ---> Essentials / Advance / Project 
+
+-----------------
+
+Type Script Fundamentals 
+
+1.Typescript is a superset of javascript
+2.features of typescript are 
+    a. speical typing 
+    b. OOPS concept 
+    c. compile time error 
+    d. tools 
+
